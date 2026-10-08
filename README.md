@@ -6,7 +6,10 @@
 <!-- ═══════════════════════════  TYPING SVG + LINKS  ═══════════════════════════ -->
 <div align="center">
 
-<a href="https://mariocolic.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=800&color=5CCB8F&center=true&vCenter=true&width=760&height=46&lines=Full+Stack+Developer;Lead+Project+Developer+%40+Circeus;Websites%2C+web+apps+and+Shopify+apps;From+the+interface+to+the+infrastructure" alt="Full Stack Developer · Lead Project Developer at Circeus" /></a>
+<a href="https://mariocolic.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=800&color=5CCB8F&center=true&vCenter=true&width=760&height=46&lines=Websites%2C+web+apps+and+Shopify+apps;From+the+interface+to+the+infrastructure;Clean%2C+maintainable+code+that+ships" alt="Websites, web apps and Shopify apps, from the interface to the infrastructure" /></a>
+
+**Full Stack Developer @ Circeus**<br/>
+<sub>formerly Shop Circle</sub>
 
 <a href="https://mariocolic.com"><img src="https://img.shields.io/badge/Portfolio-mariocolic.com-1D7A4E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mario-colic-23207a171/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D7A4E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -38,7 +41,8 @@ real people, and I'm equally at home in a React frontend, a Node backend or a Do
 
 ## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%235CCB8F&height=26" align="top" />&nbsp; Career
 
-**Circeus** <sub>(formerly Shop Circle)</sub>
+**Circeus**<br/>
+<sub>formerly Shop Circle</sub>
 
 | Role | Period | |
 |---|---|---|
